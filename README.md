@@ -1,1 +1,6 @@
 # Montgomery-Crime-Analysis
+## Aim of the project:
+To understand underlying patterns of crimes occured in Montgomery County highlighting types of crimes, frequencies of the occurrence and may help suggest the local government to mitigate crime rate in the county. will help support local government and afterwards nationally to minimise certain types of crime and predict pattern of future crimes. In order to meet these requirements, initial data analysis as well as exploratory data analysis is performed on the dataset addressing the formulated research questions using Jupyter Notebook. Observations are reported describing the distributions of data, patterns in the data in the report.
+## About the dataset:
+The dataset used for this project is Montgomery County's crime data available on Kaggle. This dataset contains information about all crimes that happened in the USA, when they happened, what crime was commited, a general description about it and the number of victims. The data presented is derived from reported crimes classified according to the National Incident-Based Reporting System (NIBRS) of the Criminal Justice Information Services (CJIS) Division Uniform Crime Reporting (UCR) Program and documented by approved police incident reports and is updated daily.
+**Link to the dataset** : https://catalog.data.gov/dataset/crime 
